@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Display Label"; ObjectID = "XDd-MJ-fEd"; */
+"XDd-MJ-fEd.text" = "Display Label";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "YSi-A6-9Ht"; */
+"YSi-A6-9Ht.title" = "Item 2";
+
+/* Class = "UITabBarItem"; title = "Test"; ObjectID = "Yxg-ih-ypL"; */
+"Yxg-ih-ypL.title" = "Test";
+
+/* Class = "UISegmentedControl"; aWo-vZ-E4T.segmentTitles[0] = "en"; ObjectID = "aWo-vZ-E4T"; */
+"aWo-vZ-E4T.segmentTitles[0]" = "en";
+
+/* Class = "UISegmentedControl"; aWo-vZ-E4T.segmentTitles[1] = "cnt"; ObjectID = "aWo-vZ-E4T"; */
+"aWo-vZ-E4T.segmentTitles[1]" = "cnt";
+
+/* Class = "UISegmentedControl"; aWo-vZ-E4T.segmentTitles[2] = "cns"; ObjectID = "aWo-vZ-E4T"; */
+"aWo-vZ-E4T.segmentTitles[2]" = "cns";
+
+/* Class = "UISegmentedControl"; aWo-vZ-E4T.segmentTitles[3] = "ja"; ObjectID = "aWo-vZ-E4T"; */
+"aWo-vZ-E4T.segmentTitles[3]" = "ja";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "f0r-14-acU"; */
+"f0r-14-acU.title" = "Item 1";
